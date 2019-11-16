@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="PjExt/src/java"/>
+	<classpathentry kind="lib" path="PjExt/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="PjExt/lib/javaee-endorsed-api-6.0/javaee-doc-api.jar"/>
+	<classpathentry kind="lib" path="PjExt/lib/javaee-endorsed-api-6.0/javax.annotation.jar"/>
+	<classpathentry kind="lib" path="PjExt/lib/javaee-endorsed-api-6.0/jaxb-api-osgi.jar"/>
+	<classpathentry kind="lib" path="PjExt/lib/javaee-endorsed-api-6.0/webservices-api-osgi.jar"/>
+	<classpathentry kind="lib" path="PjExt/lib/MySQLDriver/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="PjExt/lib/primefaces-6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
